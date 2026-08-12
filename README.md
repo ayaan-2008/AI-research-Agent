@@ -11,16 +11,15 @@ AI-powered research assistant that searches the web and synthesizes information 
 <!-- Replace with your screenshot: place an image file (e.g. preview.png) in the repo root and uncomment the line below -->
 <!-- ![Research Agent Preview](preview.png) -->
 
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   [ Add your website screenshot here ]              │
-│                                                     │
-│   Save as preview.png in the repo root              │
-│   Then uncomment the image line above               │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/7fd2ebbf-0edf-4873-8c02-d868dbdb212c" />
+
+
+<img width="1914" height="946" alt="image" src="https://github.com/user-attachments/assets/241f34b6-92f2-46f1-9d06-ef2d765f272b" />
+
+
+<img width="1674" height="758" alt="image" src="https://github.com/user-attachments/assets/2ef289c3-4ad3-4f44-a997-002c60332004" />
+
 
 ## Features
 
