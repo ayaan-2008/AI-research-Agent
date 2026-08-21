@@ -85,7 +85,7 @@ def web_search(query: str) -> str:
 
 
 @tool
-def scrape_webpage(url: str) -> str:
+def web_scrape(url: str) -> str:
     """Extract text content from a webpage URL."""
     try:
         headers = {
